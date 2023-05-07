@@ -18,7 +18,7 @@ public class Question8Pattern1 {
                 System.out.print(i);
                 i++;
             }
-            System.out.println("");
+            System.out.println();
         }
     }
 }
