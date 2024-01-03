@@ -18,6 +18,6 @@ public class Question13 {
             maxLength = Math.max(length, maxLength);
             previousVal = value;
         }
-        System.out.print("\nHighest length of an increasing series is " + maxLength);
+        System.out.print("Highest length of an increasing series is " + maxLength);
     }
 }

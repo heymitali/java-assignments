@@ -6,14 +6,13 @@ public class Question11 {
         System.out.println("The armstrong numbers between 1 and " + maxValue + " are ");
 
         for (int num = 1; num <= maxValue; num++){
-           if (ifArmstrongNum(num)){
+           if (isArmstrongNumber(num)){
                System.out.print(num + " ");
            }
         }
-
     }
 
-    public static boolean ifArmstrongNum(int num) {
+    public static boolean isArmstrongNumber(int num) {
         int cubeSum = 0;
         int temp = num;
         while (num > 0) {
