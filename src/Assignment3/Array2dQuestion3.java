@@ -8,7 +8,6 @@ public class Array2dQuestion3 {
 
         int rows = 3;
         int columns = 3;
-
         System.out.println("Enter 9 values to form a 3x3 matrix");
         int[][] matrix = new int[rows][columns];
         for (int i = 0; i < rows; i++){
@@ -16,7 +15,6 @@ public class Array2dQuestion3 {
                 matrix[i][j] = scanner.nextInt();
             }
         }
-
         
         int[] sumMatrix = new int[rows];
         for (int i = 0; i < rows; i++){

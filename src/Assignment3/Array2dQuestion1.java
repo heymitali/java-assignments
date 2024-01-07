@@ -2,7 +2,6 @@ package Assignment3;
 
 import java.util.Scanner;
 
-// improve loop conditions
 public class Array2dQuestion1 {
     public static void main(String[] args) {
         int rows = 3, columns = 3;

@@ -2,7 +2,7 @@ package Assignment3;
 
 import java.util.Scanner;
 
-// rename loop variables
+// product sum of two arrays
 public class Array2dQuestion2 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
