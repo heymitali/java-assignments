@@ -1,10 +1,9 @@
 package Assignment3;
 
-    //left shift by the array by "n" positions
-
 import java.io.InputStreamReader;
 import java.util.Scanner;
 
+// left shift by the array by "n" positions
 public class Question4 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(new InputStreamReader(System.in));

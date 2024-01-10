@@ -2,7 +2,7 @@ package Assignment3;
 import java.io.InputStreamReader;
 import java.util.Scanner;
 
-//TODO FIX IT
+// TODO FIX IT
 // left shift array elements by 1 position
 // remove extra array used here
 public class Question2 {

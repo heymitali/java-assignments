@@ -1,10 +1,8 @@
 package Assignment3;
-
-    //shift the array elements in circular motion by "n" positions
-
 import java.io.InputStreamReader;
 import java.util.Scanner;
 
+// shift the array elements in circular motion by "n" positions
 public class Question5 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(new InputStreamReader(System.in));
